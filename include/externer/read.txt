@@ -1,0 +1,8 @@
+requirements:
+
+easylogging++ 
+CLUE
+
+git adress:https://github.com/wanglimin/dense_flow.git
+
+use git clone --recursive http://github.com/yjxiong/dense_flow ;then copy the two folders to the proper folder
